@@ -22,8 +22,8 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shehan-hiththatiyage&show_icons=true&locale=en"alt="shehan-hiththatiyage" /></p
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehan-hiththatiyage&show_icons=true&locale=en&layout=compact" alt="shehan-hiththatiyage" /></p>
-<br><br>                                                                                                                                   
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehan-hiththatiyage&show_icons=true&locale=en&layout=compact" alt="shehan-hiththatiyage" /></p>
+<br><br>                                                   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehan-hiththatiyage" alt="shehan-hiththatiyage" /></p>
 
 <h3 align="left">Connect with me:</h3>
